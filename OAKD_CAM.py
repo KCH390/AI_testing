@@ -1,3 +1,4 @@
+#credits to depthai, this is a lot of their code.
 import numpy as np
 import cv2
 import depthai as dai
